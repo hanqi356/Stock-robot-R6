@@ -1,0 +1,30 @@
+{
+  "holdings": {
+    "000001": {
+      "quantity": 100,
+      "cost_basis": 10.5,
+      "trades": [
+        {
+          "date": "2026-02-28",
+          "stock_code": "000001",
+          "action": "买入",
+          "price": 10.5,
+          "quantity": 100,
+          "amount": 1050.0,
+          "timestamp": "2026-02-28T10:40:24.773915"
+        }
+      ]
+    }
+  },
+  "history": [
+    {
+      "date": "2026-02-28",
+      "stock_code": "000001",
+      "action": "买入",
+      "price": 10.5,
+      "quantity": 100,
+      "amount": 1050.0,
+      "timestamp": "2026-02-28T10:40:24.773915"
+    }
+  ]
+}

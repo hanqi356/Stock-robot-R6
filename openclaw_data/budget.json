@@ -1,0 +1,15 @@
+{
+  "total_budget": 100000,
+  "used_budget": 1050.0,
+  "monthly_limit": 20000,
+  "categories": {
+    "股票买入": {
+      "limit": 20000,
+      "used": 1050.0
+    },
+    "税费": {
+      "limit": 5000,
+      "used": 0
+    }
+  }
+}
