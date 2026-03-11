@@ -1,0 +1,38 @@
+{
+  "config": {
+    "min_score_to_add": 60,
+    "consecutive_required": 2,
+    "max_watch_count": 50,
+    "expire_days": 7,
+    "min_score_to_keep": 40,
+    "max_consecutive_fail": 3,
+    "scan_interval_seconds": 60,
+    "auto_add_enabled": true,
+    "auto_remove_enabled": true
+  },
+  "watch_items": {
+    "000001": {
+      "code": "000001",
+      "name": "平安银行",
+      "added_time": "2026-03-09T12:47:47.705363",
+      "last_update": "2026-03-11T11:27:22.090486",
+      "score": 12,
+      "signal_type": "hold",
+      "signal_description": "",
+      "consecutive_count": -1,
+      "expired": false
+    },
+    "600519": {
+      "code": "600519",
+      "name": "贵州茅台",
+      "added_time": "2026-03-09T12:47:47.707987",
+      "last_update": "2026-03-11T11:27:22.090491",
+      "score": 12,
+      "signal_type": "hold",
+      "signal_description": "",
+      "consecutive_count": -1,
+      "expired": false
+    }
+  },
+  "candidate_scores": {}
+}

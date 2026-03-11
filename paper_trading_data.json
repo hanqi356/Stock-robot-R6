@@ -1,0 +1,114 @@
+{
+  "cash": 29078.020000000004,
+  "positions": {
+    "000526": {
+      "symbol": "000526",
+      "shares": 2000,
+      "avg_cost": 35.09,
+      "buy_time": "2026-03-11 11:28:34",
+      "buy_price": 35.09,
+      "buy_score": 0,
+      "current_price": 35.09,
+      "profit_pct": 0.0,
+      "market_value": 70180.0
+    }
+  },
+  "trades": [
+    {
+      "id": "PT202602271039300000",
+      "datetime": "2026-02-27 10:39:30",
+      "symbol": "000526",
+      "action": "buy",
+      "price": 36.84,
+      "shares": 2000,
+      "amount": 73680.0,
+      "reason": "快速买入",
+      "score": 0,
+      "is_real": false
+    },
+    {
+      "id": "PT202602271049170001",
+      "datetime": "2026-02-27 10:49:17",
+      "symbol": "603938",
+      "action": "buy",
+      "price": 27.1,
+      "shares": 900,
+      "amount": 24390.0,
+      "reason": "快速买入",
+      "score": 0,
+      "is_real": false
+    },
+    {
+      "id": "PT202603111103490002",
+      "datetime": "2026-03-11 11:03:49",
+      "symbol": "000526",
+      "action": "sell",
+      "price": 35.13,
+      "shares": 1,
+      "amount": 35.13,
+      "reason": "测试卖出",
+      "score": 0,
+      "is_real": false
+    },
+    {
+      "id": "PT202603111112540003",
+      "datetime": "2026-03-11 11:12:54",
+      "symbol": "000526",
+      "action": "sell",
+      "price": 35.11,
+      "shares": 1999,
+      "amount": 70184.89,
+      "reason": "测试卖出",
+      "score": 0,
+      "is_real": false
+    },
+    {
+      "id": "PT202603111118540004",
+      "datetime": "2026-03-11 11:18:54",
+      "symbol": "603938",
+      "action": "sell",
+      "price": 30.12,
+      "shares": 900,
+      "amount": 27108.0,
+      "reason": "持仓右键卖出",
+      "score": 0,
+      "is_real": false
+    },
+    {
+      "id": "PT202603111124370005",
+      "datetime": "2026-03-11 11:24:37",
+      "symbol": "000001",
+      "action": "buy",
+      "price": 10.85,
+      "shares": 100,
+      "amount": 1085.0,
+      "reason": "测试买入",
+      "score": 0,
+      "is_real": false
+    },
+    {
+      "id": "PT202603111128340006",
+      "datetime": "2026-03-11 11:28:34",
+      "symbol": "000526",
+      "action": "buy",
+      "price": 35.09,
+      "shares": 2000,
+      "amount": 70180.0,
+      "reason": "快速买入",
+      "score": 0,
+      "is_real": false
+    },
+    {
+      "id": "PT202603111128460007",
+      "datetime": "2026-03-11 11:28:46",
+      "symbol": "000001",
+      "action": "sell",
+      "price": 10.85,
+      "shares": 100,
+      "amount": 1085.0,
+      "reason": "持仓右键卖出",
+      "score": 0,
+      "is_real": false
+    }
+  ]
+}
